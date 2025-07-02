@@ -5,7 +5,6 @@ I'm Tigger, a Lego MOC designer and wannabe game creator.
 - I like to make MOCs and post them on Rebrickable
 - I enjoy game creation using Unreal Engine
 - I'm currently working on creating my first game in Unreal Engine (it is in the early development process)
-- I'm currently working on setting up Visual Studio with Unreal Engine, but I'm having many difficulties.
 <!--
 **Tiggerljc/Tiggerljc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
